@@ -1,0 +1,16 @@
+{
+  "name": "bofa",
+  "main": "./src/index.js",
+  "version": "69.69.69",
+  "description": "bofa deez nuts",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidShefcik/bofa.git"
+  }
+}
