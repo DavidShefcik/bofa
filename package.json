@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node ."
   },
+  "dependencies": {
+    "ligma": "latest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
